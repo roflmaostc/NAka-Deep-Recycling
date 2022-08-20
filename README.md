@@ -1,7 +1,7 @@
 # Deep Recycling
 ## KI zur Lösung des Recyclingproblems?
 
-<img src="https://raw.githubusercontent.com/roflmaostc/NAka-Deep-Recycling/main/layout/kurslogo_leni.png"  width="300" height="300" />     <img src="https://raw.githubusercontent.com/roflmaostc/NAka-Deep-Recycling/main/layout/kurslogo_dalle.png"  width="300" height="300" />
+<img src="https://raw.githubusercontent.com/roflmaostc/NAka-Deep-Recycling/main/layout/kurslogo_leni.jpg"  width="300" height="300" />     <img src="https://raw.githubusercontent.com/roflmaostc/NAka-Deep-Recycling/main/layout/kurslogo_dalle.png"  width="300" height="300" />
 
 In diesem Repository stellen wir die Materialien zu unserem
 [Kurs auf der Nachhaltigkeitsakademie 2022](https://www.schuelerakademien.de/programm/kurs?tx_ewacademy_coursedetail%5Bcontroller%5D=Course&tx_ewacademy_coursedetail%5Bcourse%5D=4237&cHash=44e87147edb92f796f5b422f13a3553e) 
