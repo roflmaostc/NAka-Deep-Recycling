@@ -2,4 +2,4 @@
 ## KI zur Lösung des Recyclingproblems?
 Kursmaterial zur Nachhaltigkeitsakademie 2022 in Papenburg
 
-![Kurslogo DALL-E](layout/kurslogo_dalle.png | =250x250)
+<img src="https://raw.githubusercontent.com/roflmaostc/NAka-Deep-Recycling/main/layout/kurslogo_dalle.png"  width="300" height="300" />
