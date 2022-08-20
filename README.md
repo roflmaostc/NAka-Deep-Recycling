@@ -1,4 +1,4 @@
-# Deep-Recycling
+# Deep Recycling
 ## KI zur Lösung des Recyclingproblems?
 Kursmaterial zur Nachhaltigkeitsakademie 2022 in Papenburg
 
